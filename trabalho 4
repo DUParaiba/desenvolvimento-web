@@ -1,0 +1,25 @@
+index.html
+<!DOCTYPE html>
+<html>
+head>
+<meta charset="utf-8">
+<title>Formularios</title>
+
+</head>
+body>
+<form method="POST" action="gravaDados. php" enctype="multipart/form-data
+
+<div style="width: 25%; float:left">
+<label>Entrada do tipo: button</label><br>
+<input type="button"><br><br>
+label>Entrada do tipo: checkbox</label><br>
+<input type="checkbox"><br><br>
+
+Entrada do tipo: color</label><br>
+<input type="color"><br><br>
+<label>Entrada do tipo: date</label><br>
+<input type="date"><br><br>
+label>Entrada do tipo: datetime</label><br>
+
+<label>Entrada do tipo:datatime</label><br>
+<input type="datetime"><br><br>
